@@ -1,3 +1,7 @@
+#  Ensure that the locale setting are in english
+
+Sys.setlocale("LC_ALL","English")
+
 #
 #  Data load and filtering
 #
